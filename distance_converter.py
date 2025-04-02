@@ -51,7 +51,6 @@ km_button.pack(side='left', padx=5)
 input_frame.pack(pady=10)
 
 #output
-
 output_string = tk.StringVar()
 
 output_label = ttk.Label(
