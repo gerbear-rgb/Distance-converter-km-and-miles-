@@ -19,7 +19,7 @@ root.geometry('425x150')
 #title
 title_label = ttk.Label(
     master=root,
-    text='Miles to Kilometers',
+    text='Distance Converter',
     font='Calibri 24 bold'
 )
 title_label.pack()
